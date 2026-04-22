@@ -28,7 +28,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/Artem-SPb/WeatherApp.git](https://github.com/Artem-SPb/WeatherApp.git)
+   git clone git@github.com:Artem-SPb/WeatherApp.git
 
 2. Откройте проект в Android Studio.
 
