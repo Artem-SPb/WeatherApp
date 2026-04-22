@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="plus_temperature">+%1$d°C</string>
+    <string name="minus_temperature">%1$d°C</string>
+</resources>
